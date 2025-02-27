@@ -134,7 +134,7 @@ $containerStatus = docker ps --filter "name=superservice" --format "{{.Status}}"
 
 if (-not $containerStatus -or $containerStatus -match "Exited" -or $containerStatus -match "Restarting") {
     Write-Host "❌ ERROR: Docker container 'superservice' failed to start." -ForegroundColor Red
-    docker rm -f "superservice" # forcefully kill and cleanup the container
+    #docker rm -f "superservice" # forcefully kill and cleanup the container
     exit 1
 }
 
