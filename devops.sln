@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "super-service", "super-service", "{E824F009-8AE0-6160-979E-26D2EF0ADB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperService.UnitTests", "super-service\test\SuperService.UnitTests.csproj", "{71782A9C-778F-28DA-1F3E-F1429F7D9B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperService", "super-service\src\SuperService.csproj", "{7A9E260B-974B-349D-00EF-F9CF92700301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71782A9C-778F-28DA-1F3E-F1429F7D9B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71782A9C-778F-28DA-1F3E-F1429F7D9B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71782A9C-778F-28DA-1F3E-F1429F7D9B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71782A9C-778F-28DA-1F3E-F1429F7D9B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9E260B-974B-349D-00EF-F9CF92700301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9E260B-974B-349D-00EF-F9CF92700301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9E260B-974B-349D-00EF-F9CF92700301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9E260B-974B-349D-00EF-F9CF92700301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71782A9C-778F-28DA-1F3E-F1429F7D9B09} = {E824F009-8AE0-6160-979E-26D2EF0ADB20}
+		{7A9E260B-974B-349D-00EF-F9CF92700301} = {E824F009-8AE0-6160-979E-26D2EF0ADB20}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E9D6B0-80DF-4B38-B4D2-7C8AC8F482D3}
+	EndGlobalSection
+EndGlobal
