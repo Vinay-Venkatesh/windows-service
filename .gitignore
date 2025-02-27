@@ -1,5 +1,13 @@
-**/*.pfx
-src/bin/
-src/obj/
-test/bin/
-test/obj/
+#Ignore https certificate files
+super-service/https/*.pfx
+
+#Ignore build and output directory
+super-service/src/bin/
+super-service/src/obj/
+super-service/test/bin/
+super-service/test/obj/
+
+# Ignore user-specific files
+*.user
+*.vs/
+.vscode/

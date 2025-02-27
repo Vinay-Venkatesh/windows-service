@@ -1,8 +1,0 @@
-is_global = true
-build_property.RootNamespace = SuperService.UnitTests
-build_property.ProjectDir = /Users/vinay.v/Documents/personal_workspace/development/devops/super-service/test/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 
