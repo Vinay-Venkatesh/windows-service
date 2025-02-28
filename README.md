@@ -57,4 +57,8 @@ Post deployment you can access the application on browser at - ``` https://local
 2. Added Logs message in controller class after every API call to get the time using ```ILogger``` this is to enable logging post deployment.
 3. Updated the ```http and https``` ports from ```5000 & 5001``` to ```80 & 443```
 
+### Deployment Overview
+
+<img width="1463" alt="image" src="https://github.com/user-attachments/assets/fa8ac6e8-4522-43f5-bb2f-b32f432aa9bb" />
+
 
