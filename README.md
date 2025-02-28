@@ -62,3 +62,14 @@ Post deployment you can access the application on browser at - ``` https://local
 <img width="1463" alt="image" src="https://github.com/user-attachments/assets/fa8ac6e8-4522-43f5-bb2f-b32f432aa9bb" />
 
 
+### Screenshots
+
+<img width="1318" alt="image" src="https://github.com/user-attachments/assets/8806fe68-40e0-432f-a11b-8a905fdce6e0" />
+
+---
+
+
+<img width="1477" alt="image" src="https://github.com/user-attachments/assets/4191e450-2397-4e1c-9497-ee5b8c617f9b" />
+
+
+
