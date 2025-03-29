@@ -1,5 +1,5 @@
 # Timestamp Generator
-This repository holds application code and deployment files.
+This repository holds application code and deployment files which was part of an internal assignment
 
 ### Introduction
 Its a .NET Application which generates current date timestamp, and is exposed as a REST API.
